@@ -1,0 +1,2 @@
+This  Model  predcits the car prices based on kilometers driven .\
+Machine Learning Model used here is Linear Regression
